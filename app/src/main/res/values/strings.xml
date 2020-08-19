@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoneyExchanger</string>
+    <string name="exchange">Exchange</string>
+    <string name="_0_00">0,00</string>
+    <string name="insufficient_funds">Insufficient funds for replenishment</string>
+    <string name="transaction_problem">Some transaction problem</string>
+    <string name="error">Error</string>
+    <string name="transaction_info">Transaction Information</string>
+</resources>
